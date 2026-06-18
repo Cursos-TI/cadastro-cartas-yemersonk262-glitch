@@ -6,7 +6,8 @@
 
 int main() {
   // Área para definição das variáveis para armazenar as propriedades das cidades
-
+    printf("Ola mundo! \n ");
+    printf("aprendendo mais com o giit hab: \n ");
   // Área para entrada de dados
 
   // Área para exibição dos dados da cidade
